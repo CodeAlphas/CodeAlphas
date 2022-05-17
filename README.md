@@ -1,9 +1,10 @@
 ## Hi there 👋 
 
 ### 🔎 I’m currently working on
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codealpha)](https://solved.ac/codealpha)
-![CodeAlphas's github stats](https://github-readme-stats.vercel.app/api?username=CodeAlphas&show_icons=true&theme=radical&hide=contribs&count_private=true)
+<p>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codealpha">
+<img src="https://github-readme-stats.vercel.app/api?username=CodeAlphas&show_icons=true&theme=radical&hide=contribs&count_private=true">
+</p>
 
 ### 📖 I’m currently learning 
 <p>
