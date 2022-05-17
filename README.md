@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Junho%20Lee's%20Github%20Profile&fontSize=60)
+
 ## Hi there 👋 
 
 ### 🔎 I’m currently working on
