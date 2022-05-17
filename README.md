@@ -2,8 +2,8 @@
 
 ### 🔎 I’m currently working on
 
-![CodeAlphas's github stats](https://github-readme-stats.vercel.app/api?username=CodeAlphas&show_icons=true&theme=radical&hide=contribs&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codealpha)](https://solved.ac/codealpha)
+![CodeAlphas's github stats](https://github-readme-stats.vercel.app/api?username=CodeAlphas&show_icons=true&theme=radical&hide=contribs&count_private=true)
 
 ### 📖 I’m currently learning 
 <p>
