@@ -2,7 +2,6 @@
 
 ### 🔎 I’m currently working on
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlphas&exclude_repo=github-readme-stats,CodeAlphas.github.io&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=CodeAlphas&theme=radical&show_icons=true&hide=contribs&count_private=true">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codealpha">
 </p>
