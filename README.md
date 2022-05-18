@@ -4,7 +4,7 @@
 
 ### 🔎 I’m currently working on
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=CodeAlphas&theme=radical&show_icons=true&hide=contribs&count_private=true">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=CodeAlphas&theme=radical&show_icons=true&hide=contribs&count_private=true">-->
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codealpha">
 </p>
 
