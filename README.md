@@ -9,7 +9,8 @@
 
 ### 📖 I’m currently learning 
 <p>
-<img src="https://img.shields.io/badge/java-0D597F?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-1071D3?style=flat&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/java-0D597F?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 <p>
